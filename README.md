@@ -1,2 +1,3 @@
-# BlendShapeSearcher
-BlendShape 検索＆操作エディター拡張
+please read 
+
+https://harusamenozakka.booth.pm/items/6822808

@@ -1,0 +1,11 @@
+{
+  "name": "com.yourname.blendshape-searcher",    // 一意の識別子
+  "version": "1.0.0",                             // 初版は 1.0.0
+  "displayName": "BlendShape Searcher",           // Unity に表示される名前
+  "description": "BlendShape を検索・操作できるエディター拡張",
+  "unity": "2022.3",                              // 対応 Unity バージョン
+  "author": {
+    "name": "Your Name",
+    "url": "https://github.com/YourUserName/BlendShapeSearcher"
+  }
+}
