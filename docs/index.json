@@ -1,0 +1,11 @@
+{
+  "packages": [
+    {
+      "name": "com.yourname.blendshape-searcher",
+      "version": "1.0.0",
+      "displayName": "BlendShape Searcher",
+      "description": "検索機能付きブレンドシェイプ操作エディター拡張",
+      "repository": "https://github.com/haru-same3D/BlendShapeSearcher"
+    }
+  ]
+}
