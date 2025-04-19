@@ -3,13 +3,14 @@
     {
       "name": "com.yourname.blendshape-searcher",
       "displayName": "BlendShape Searcher",
-      "description": "検索機能付きブレンドシェイプ操作エディター拡張",
+      "description": "Searchable BlendShape editor extension for Unity 2022.3",
       "releases": [
         {
           "version": "1.0.0",
           "url": "https://github.com/haru-same3D/BlendShapeSearcher/releases/download/v1.0.0/BlendShapeSearcher-1.0.0.unitypackage"
         }
-      ]
+      ],
+      "repository": "https://github.com/haru-same3D/BlendShapeSearcher"
     }
   ]
 }
